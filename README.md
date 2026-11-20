@@ -8,8 +8,6 @@
   <img src="assets/texcord_overview.png" alt="TexCORD overview" width="95%">
 </p>
 
-> **Note:** Replace the placeholder commands, paths, author information, and checkpoint links below with the final repository-specific values before release.
-
 ---
 
 ## Overview
