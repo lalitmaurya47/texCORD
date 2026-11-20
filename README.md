@@ -48,7 +48,6 @@ TexCORD is a multi-organ ultrasound imaging corpus assembled from 34 datasets co
 
 ## Dataset Summary and Citations
 
-Citations below refer to the numbered **References** section. Each entry also identifies the original BibTeX key so it can be reused in LaTeX.
 
 | Dataset Name | Organ / Anatomical Region | No. of Images | Citation |
 |:--|:--|--:|:--|
@@ -142,8 +141,6 @@ TexCORD builds on publicly available ultrasound datasets and a pretrained ultras
 ---
 
 ## References
-
-The following references are formatted from the provided `main.bib` file. DOI or source links appear only when present in that file.
 
 <a id="ref-1"></a>
 **[1] AbdominalUS:** **Vitale, S., Orlando, J. I., Iarussi, E., & Larrabide, I. (2020).** Improving realism in patient-specific abdominal ultrasound simulation using CycleGANs. *International journal of computer assisted radiology and surgery*, 15(2), 183–192.  
