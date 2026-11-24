@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="graphics.png" alt="TexCORD overview" width="95%">
+  <img src="graphical.ppg" alt="TexCORD overview" width="95%">
 </p>
 
 ---
